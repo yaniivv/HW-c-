@@ -3,3 +3,15 @@
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
 
+Console.WriteLine("Start");
+
+int number A = Console.ReadLine();
+int number B = Console.ReadLine();
+
+if A > B {
+    (Max = A Min = B);
+}
+else B > A {
+    (Max = B Min = A);
+}
+Console.WriteLine(Max, Min);
