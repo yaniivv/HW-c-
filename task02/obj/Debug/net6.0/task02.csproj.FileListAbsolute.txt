@@ -3,3 +3,13 @@ C:\repo\HW\task02\obj\Debug\net6.0\task02.GeneratedMSBuildEditorConfig.editorcon
 C:\repo\HW\task02\obj\Debug\net6.0\task02.AssemblyInfoInputs.cache
 C:\repo\HW\task02\obj\Debug\net6.0\task02.AssemblyInfo.cs
 C:\repo\HW\task02\obj\Debug\net6.0\task02.csproj.CoreCompileInputs.cache
+C:\repo\HW\task02\bin\Debug\net6.0\task02.exe
+C:\repo\HW\task02\bin\Debug\net6.0\task02.deps.json
+C:\repo\HW\task02\bin\Debug\net6.0\task02.runtimeconfig.json
+C:\repo\HW\task02\bin\Debug\net6.0\task02.dll
+C:\repo\HW\task02\bin\Debug\net6.0\task02.pdb
+C:\repo\HW\task02\obj\Debug\net6.0\task02.dll
+C:\repo\HW\task02\obj\Debug\net6.0\refint\task02.dll
+C:\repo\HW\task02\obj\Debug\net6.0\task02.pdb
+C:\repo\HW\task02\obj\Debug\net6.0\task02.genruntimeconfig.cache
+C:\repo\HW\task02\obj\Debug\net6.0\ref\task02.dll
