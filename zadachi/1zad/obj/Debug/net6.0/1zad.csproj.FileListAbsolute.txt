@@ -1,0 +1,15 @@
+C:\repo\HW\zadachi\1zad\obj\Debug\net6.0\1zad.csproj.AssemblyReference.cache
+C:\repo\HW\zadachi\1zad\obj\Debug\net6.0\1zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\HW\zadachi\1zad\obj\Debug\net6.0\1zad.AssemblyInfoInputs.cache
+C:\repo\HW\zadachi\1zad\obj\Debug\net6.0\1zad.AssemblyInfo.cs
+C:\repo\HW\zadachi\1zad\obj\Debug\net6.0\1zad.csproj.CoreCompileInputs.cache
+C:\repo\HW\zadachi\1zad\bin\Debug\net6.0\1zad.exe
+C:\repo\HW\zadachi\1zad\bin\Debug\net6.0\1zad.deps.json
+C:\repo\HW\zadachi\1zad\bin\Debug\net6.0\1zad.runtimeconfig.json
+C:\repo\HW\zadachi\1zad\bin\Debug\net6.0\1zad.dll
+C:\repo\HW\zadachi\1zad\bin\Debug\net6.0\1zad.pdb
+C:\repo\HW\zadachi\1zad\obj\Debug\net6.0\1zad.dll
+C:\repo\HW\zadachi\1zad\obj\Debug\net6.0\refint\1zad.dll
+C:\repo\HW\zadachi\1zad\obj\Debug\net6.0\1zad.pdb
+C:\repo\HW\zadachi\1zad\obj\Debug\net6.0\1zad.genruntimeconfig.cache
+C:\repo\HW\zadachi\1zad\obj\Debug\net6.0\ref\1zad.dll
