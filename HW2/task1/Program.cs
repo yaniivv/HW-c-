@@ -1,28 +1,25 @@
-﻿// Напишите метод, который принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
-Console.WriteLine("Введите трёхзначное число:");
-int num = Convert.ToInt32(Console.ReadLine());
+﻿Console.WriteLine("Введите трёхзначное число:");
+int des = Convert.ToInt32(Console.ReadLine());
+string sec = Convert.ToString(des);
 
- void Num(double result)
-{
-  
-  if(num<100)
+ void Num(int result)
+ {
+ if(des<100)
   {
     Console.WriteLine("Error");
   }
   else
   {
-    num = num % 100;
-    Console.WriteLine(num);
+    Console.WriteLine("Вторая цифра этого числа: "+sec[1]);
   }
   else
   {
-    while(num < 1000)
+    while(des < 1000)
     {
-      num = num % 100;
-      Console.WriteLine(num);
-     break;
+     Console.WriteLine("-> "+sec[1]);
+      break;
     }
   }
 
-Num(num);
+Num();
 
