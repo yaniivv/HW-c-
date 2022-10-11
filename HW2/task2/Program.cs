@@ -2,7 +2,7 @@
 Console.WriteLine("Введите трёхзначное число:");
 int num = Convert.ToInt32(Console.ReadLine());
 
- void Num(double result)
+void Num(double result)
 {
   
   if(num<100)
@@ -22,6 +22,6 @@ int num = Convert.ToInt32(Console.ReadLine());
       Console.WriteLine(num);
      break;
     }
-  }
+}
 
 Num(num);
