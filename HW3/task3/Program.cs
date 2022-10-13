@@ -1,13 +1,9 @@
 ﻿//Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
 
-for(int i = 1; i <= 10; i++)
+Console.WriteLine("Введите число:");
+int num = Convert.ToInt32(Console.ReadLine());
+
+for(int i = 1; i <= num; i++)
 {
-    for (int j = 1; j <= 10; j++)
-    {
-        for (int l = 1; l<= 10; l++)
-        {
-            Console.WriteLine($"{i} x {j} x {l} = {i * j * l}");
-        }    
-    }
-    Console.WriteLine("====================");
+    Console.WriteLine($"{num} = {i * i * i}");
 }
